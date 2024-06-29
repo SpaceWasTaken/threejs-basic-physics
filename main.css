@@ -1,0 +1,19 @@
+head, body{
+    position: absolute;
+    overflow-y: hidden;
+}
+
+nav{
+    padding: 4%;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    color: aliceblue;
+    font-family: 'Poppins';
+}
+
+
